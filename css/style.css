@@ -2134,3 +2134,9 @@ a.article-title:hover {
 .highlight .code .selector-id {
   font-weight: bold;
 }
+.emoji {
+  height: 3em;
+  width: 3em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+}
