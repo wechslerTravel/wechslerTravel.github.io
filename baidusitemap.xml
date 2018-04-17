@@ -4,41 +4,8 @@
 
     
   <url>
-    <loc>http://wechslerTravel.github.io/2018/04/15/Seattle-2/</loc>
-    <lastmod>2018-04-16T02:53:02.209Z</lastmod>
-    <data>
-        <display>
-        <title>Seattle-2</title>
-        <pubTime>2018-04-15T18:06:20.000Z</pubTime>
-        
-        <tag>博物馆</tag>
-         
-        <tag>都市</tag>
-         
-        <tag>西雅图</tag>
-         
-        <tag>文化</tag>
-         
-        <tag>公园</tag>
-         
-        <tag>市集</tag>
-         
-         
-           
-             
-              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
-          
-             
-              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://wechslerTravel.github.io/2018/04/15/Seattle-3/</loc>
-    <lastmod>2018-04-16T02:45:26.873Z</lastmod>
+    <lastmod>2018-04-17T06:08:59.911Z</lastmod>
     <data>
         <display>
         <title>Seattle-3</title>
@@ -48,9 +15,9 @@
          
         <tag>徒步</tag>
          
-        <tag>瀑布</tag>
-         
         <tag>自然</tag>
+         
+        <tag>瀑布</tag>
          
         <tag>山峰</tag>
          
@@ -71,7 +38,7 @@
     
   <url>
     <loc>http://wechslerTravel.github.io/2018/04/14/Seattle/</loc>
-    <lastmod>2018-04-15T18:11:57.484Z</lastmod>
+    <lastmod>2018-04-17T05:48:59.422Z</lastmod>
     <data>
         <display>
         <title>Seattle</title>
@@ -88,6 +55,39 @@
         <tag>文化</tag>
          
         <tag>地标</tag>
+         
+         
+           
+             
+              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+          
+             
+              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wechslerTravel.github.io/2018/04/15/Seattle-2/</loc>
+    <lastmod>2018-04-16T02:53:02.209Z</lastmod>
+    <data>
+        <display>
+        <title>Seattle-2</title>
+        <pubTime>2018-04-15T18:06:20.000Z</pubTime>
+        
+        <tag>博物馆</tag>
+         
+        <tag>都市</tag>
+         
+        <tag>西雅图</tag>
+         
+        <tag>文化</tag>
+         
+        <tag>公园</tag>
+         
+        <tag>市集</tag>
          
          
            
@@ -205,15 +205,15 @@
         
         <tag>国家公园</tag>
          
-        <tag>湖水</tag>
-         
         <tag>徒步</tag>
+         
+        <tag>自然</tag>
+         
+        <tag>湖水</tag>
          
         <tag>海滩</tag>
          
         <tag>瀑布</tag>
-         
-        <tag>自然</tag>
          
         <tag>山峰</tag>
          
@@ -240,17 +240,17 @@
         
         <tag>国家公园</tag>
          
+        <tag>徒步</tag>
+         
+        <tag>自然</tag>
+         
         <tag>火山</tag>
          
         <tag>湖水</tag>
          
-        <tag>徒步</tag>
-         
         <tag>海滩</tag>
          
         <tag>瀑布</tag>
-         
-        <tag>自然</tag>
          
          
            
@@ -304,13 +304,13 @@
         
         <tag>国家公园</tag>
          
-        <tag>徒步</tag>
-         
-        <tag>自然</tag>
-         
         <tag>冰川</tag>
          
         <tag>落基山脉</tag>
+         
+        <tag>徒步</tag>
+         
+        <tag>自然</tag>
          
          
            
