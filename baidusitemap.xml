@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>http://wechslerTravel.github.io/2018/06/17/Philadelphia/</loc>
+    <lastmod>2018-06-20T05:09:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Philadelphia</title>
+        <pubTime>2018-06-17T07:53:22.000Z</pubTime>
+        
+        <tag>美术馆</tag>
+         
+        <tag>都市</tag>
+         
+        <tag>建筑</tag>
+         
+        <tag>费城</tag>
+         
+         
+           
+             
+              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+          
+             
+              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://wechslerTravel.github.io/2018/06/17/NewYork1/</loc>
     <lastmod>2018-06-18T06:43:49.163Z</lastmod>
     <data>
@@ -92,35 +121,6 @@
         <tag>建筑</tag>
          
         <tag>华盛顿特区</tag>
-         
-         
-           
-             
-              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
-          
-             
-              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://wechslerTravel.github.io/2018/06/17/Philadelphia/</loc>
-    <lastmod>2018-06-18T04:14:08.356Z</lastmod>
-    <data>
-        <display>
-        <title>Philadelphia</title>
-        <pubTime>2018-06-17T07:53:22.000Z</pubTime>
-        
-        <tag>博物馆</tag>
-         
-        <tag>都市</tag>
-         
-        <tag>建筑</tag>
-         
-        <tag>费城</tag>
          
          
            
