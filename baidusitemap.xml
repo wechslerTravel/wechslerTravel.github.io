@@ -4,6 +4,41 @@
 
     
   <url>
+    <loc>http://wechslerTravel.github.io/2018/06/17/NewYork1/</loc>
+    <lastmod>2018-07-29T21:06:41.826Z</lastmod>
+    <data>
+        <display>
+        <title>NewYork1</title>
+        <pubTime>2018-06-18T04:15:32.000Z</pubTime>
+        
+        <tag>美术馆</tag>
+         
+        <tag>摩天楼</tag>
+         
+        <tag>博物馆</tag>
+         
+        <tag>都市</tag>
+         
+        <tag>纽约</tag>
+         
+        <tag>科技馆</tag>
+         
+        <tag>建筑</tag>
+         
+         
+           
+             
+              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+          
+             
+              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://wechslerTravel.github.io/2018/04/15/Seattle-3/</loc>
     <lastmod>2018-07-15T21:08:29.475Z</lastmod>
     <data>
@@ -15,9 +50,9 @@
          
         <tag>徒步</tag>
          
-        <tag>瀑布</tag>
-         
         <tag>自然</tag>
+         
+        <tag>瀑布</tag>
          
         <tag>山峰</tag>
          
@@ -44,13 +79,13 @@
         <title>WashingtonDC</title>
         <pubTime>2018-05-15T05:48:01.000Z</pubTime>
         
-        <tag>博物馆</tag>
-         
         <tag>美术馆</tag>
          
-        <tag>科技馆</tag>
+        <tag>博物馆</tag>
          
         <tag>都市</tag>
+         
+        <tag>科技馆</tag>
          
         <tag>建筑</tag>
          
@@ -108,9 +143,9 @@
         
         <tag>博物馆</tag>
          
-        <tag>都市</tag>
-         
         <tag>水族馆</tag>
+         
+        <tag>都市</tag>
          
         <tag>西雅图</tag>
          
@@ -176,9 +211,9 @@
          
         <tag>都市</tag>
          
-        <tag>波特兰</tag>
-         
         <tag>美食</tag>
+         
+        <tag>波特兰</tag>
          
         <tag>购物</tag>
          
@@ -205,15 +240,15 @@
         
         <tag>国家公园</tag>
          
-        <tag>湖水</tag>
-         
         <tag>徒步</tag>
+         
+        <tag>自然</tag>
+         
+        <tag>湖水</tag>
          
         <tag>海滩</tag>
          
         <tag>瀑布</tag>
-         
-        <tag>自然</tag>
          
         <tag>山峰</tag>
          
@@ -240,11 +275,11 @@
         
         <tag>都市</tag>
          
-        <tag>美食</tag>
-         
         <tag>拉斯维加斯</tag>
          
         <tag>酒店</tag>
+         
+        <tag>美食</tag>
          
          
            
@@ -267,17 +302,17 @@
         <title>Chicago</title>
         <pubTime>2018-03-25T22:50:02.000Z</pubTime>
         
-        <tag>博物馆</tag>
+        <tag>芝加哥</tag>
          
         <tag>美术馆</tag>
          
         <tag>摩天楼</tag>
          
-        <tag>都市</tag>
-         
-        <tag>芝加哥</tag>
+        <tag>博物馆</tag>
          
         <tag>水族馆</tag>
+         
+        <tag>都市</tag>
          
          
            
@@ -302,17 +337,17 @@
         
         <tag>国家公园</tag>
          
+        <tag>徒步</tag>
+         
+        <tag>自然</tag>
+         
         <tag>火山</tag>
          
         <tag>湖水</tag>
          
-        <tag>徒步</tag>
-         
         <tag>海滩</tag>
          
         <tag>瀑布</tag>
-         
-        <tag>自然</tag>
          
          
            
@@ -337,13 +372,13 @@
         
         <tag>国家公园</tag>
          
-        <tag>徒步</tag>
-         
-        <tag>自然</tag>
-         
         <tag>冰川</tag>
          
         <tag>落基山脉</tag>
+         
+        <tag>徒步</tag>
+         
+        <tag>自然</tag>
          
          
            
@@ -395,52 +430,17 @@
         <title>NewYork2</title>
         <pubTime>2018-06-18T05:00:10.000Z</pubTime>
         
-        <tag>纽约</tag>
-         
-        <tag>博物馆</tag>
-         
         <tag>美术馆</tag>
          
         <tag>摩天楼</tag>
          
-        <tag>科技馆</tag>
-         
-        <tag>都市</tag>
-         
-        <tag>建筑</tag>
-         
-         
-           
-             
-              <breadCrumb title="旅行" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/"/>
-          
-             
-              <breadCrumb title="美国" url="http://wechslerTravel.github.io/categories/%E6%97%85%E8%A1%8C/%E7%BE%8E%E5%9B%BD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://wechslerTravel.github.io/2018/06/17/NewYork1/</loc>
-    <lastmod>2018-07-15T20:14:54.970Z</lastmod>
-    <data>
-        <display>
-        <title>NewYork1</title>
-        <pubTime>2018-06-18T04:15:32.000Z</pubTime>
-        
-        <tag>纽约</tag>
-         
         <tag>博物馆</tag>
          
-        <tag>美术馆</tag>
+        <tag>都市</tag>
          
-        <tag>摩天楼</tag>
+        <tag>纽约</tag>
          
         <tag>科技馆</tag>
-         
-        <tag>都市</tag>
          
         <tag>建筑</tag>
          
